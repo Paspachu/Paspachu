@@ -2,8 +2,6 @@
 
 My name is Minho Choi from South Korea. I have recently obtained my Master's degree in Applied and Computational Mathematics from University of Washington. I am moving forward to build my path as Machine Learning Engineer. I have strong interest in Machine Learning algorithms, especially in Computer Vision and Image Analysis. Moreover, I have an interest in building a performance analysis platform for football(soccer) and table tennis(ping pong).
 
-Please feel free to follow or contact me!
-
 ### Github Questions
 
 - 🔭 I’m currently working on various Python projects, such as automations, web scraping, and machine learning.
