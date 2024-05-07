@@ -9,7 +9,7 @@ My name is Minho Choi from South Korea. I have recently obtained my Master's deg
 - 👯 I’m looking to collaborate on any open source project related to machine learning, computer vision, and sports.
 - 🤔 I’m looking for help with job hunting to be honest. If you have any job openings that you are aware of in Seattle, WA area, please let me know!!!
 - 💬 Ask me about table tennis! I can pretty much list all professional players and some amatuer players in South Korea. Also, if you are curious about amatuer table tennis league in South Korea, please ask anytime!
-- 📫 How to reach me:
+- 📫 How to reach me: minhochoi.official@gmail.com
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I lived in country called Georgia! I love Khachapuri and Khinkali (let me know if the spellings are wrong)!
 
